@@ -10,11 +10,15 @@ As a DevOps student, my goal is to learn by doing—and my homelab is where the 
 
 This is more than just a lab—it’s my personal playground and learning portfolio.
 
+<br>
 
 🏗 Homelab Setup Progress
 ---
+<br>
 
 This section documents the main steps I took while building my homelab using Raspberry Pi, Kubernetes (K3s), Flux, and GitOps.
+
+<br>
 
 1️⃣ Raspberry Pi + K3s Setup
 	•	Flashed Raspberry Pi OS (64-bit Lite) + update + upgrade
