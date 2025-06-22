@@ -70,7 +70,7 @@ data:
   config.yaml: |
     # Name of the tunnel you want to run
 
-    tunnel: linkfloki
+    tunnel: tunnel-credentials
 
     credentials-file: /etc/cloudflared/creds/credentials.json
 
