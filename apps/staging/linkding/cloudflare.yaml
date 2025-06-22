@@ -47,7 +47,7 @@ spec:
       volumes:
       - name: creds
         secret:
-          secretName: tunnel-encryption
+          secretName: tunnel-credentials
 
       # Create a config.yaml file from the ConfigMap below.
       - name: config
