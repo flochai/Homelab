@@ -70,7 +70,7 @@ data:
   config.yaml: |
     # Name of the tunnel you want to run
 
-    tunnel: tunnel-credentials
+    tunnel: tunnel-encryption
 
     credentials-file: /etc/cloudflared/creds/credentials.json
 
