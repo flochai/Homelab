@@ -9,6 +9,3 @@ spec:
     app: linkding
   type: ClusterIP
   port: 9090
-selector:
-  app: linkding
-type: ClusterIP
